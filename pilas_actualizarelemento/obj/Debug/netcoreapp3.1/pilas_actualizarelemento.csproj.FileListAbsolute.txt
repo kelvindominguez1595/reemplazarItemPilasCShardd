@@ -1,0 +1,13 @@
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\bin\Debug\netcoreapp3.1\pilas_actualizarelemento.exe
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\bin\Debug\netcoreapp3.1\pilas_actualizarelemento.deps.json
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\bin\Debug\netcoreapp3.1\pilas_actualizarelemento.runtimeconfig.json
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\bin\Debug\netcoreapp3.1\pilas_actualizarelemento.runtimeconfig.dev.json
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\bin\Debug\netcoreapp3.1\pilas_actualizarelemento.dll
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\bin\Debug\netcoreapp3.1\pilas_actualizarelemento.pdb
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\obj\Debug\netcoreapp3.1\pilas_actualizarelemento.csprojAssemblyReference.cache
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\obj\Debug\netcoreapp3.1\pilas_actualizarelemento.AssemblyInfoInputs.cache
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\obj\Debug\netcoreapp3.1\pilas_actualizarelemento.AssemblyInfo.cs
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\obj\Debug\netcoreapp3.1\pilas_actualizarelemento.csproj.CoreCompileInputs.cache
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\obj\Debug\netcoreapp3.1\pilas_actualizarelemento.dll
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\obj\Debug\netcoreapp3.1\pilas_actualizarelemento.pdb
+C:\Users\KELVIN\source\repos\pilas_actualizarelemento\pilas_actualizarelemento\obj\Debug\netcoreapp3.1\pilas_actualizarelemento.genruntimeconfig.cache
